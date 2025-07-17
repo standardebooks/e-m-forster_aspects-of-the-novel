@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-4.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>Lowercase `i` and `ii` are Roman numerals enumerating cases under discussion.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
