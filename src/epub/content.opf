@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70492</dc:source>
 		<dc:source>https://archive.org/details/aspectsofnovel0000emfo</dc:source>
-		<meta property="se:word-count">45500</meta>
+		<meta property="se:word-count">45228</meta>
 		<meta property="se:reading-ease.flesch">58.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aspects_of_the_Novel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_aspects-of-the-novel</meta>
