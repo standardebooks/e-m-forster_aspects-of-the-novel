@@ -49,7 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70492</dc:source>
 		<dc:source>https://archive.org/details/aspectsofnovel0000emfo</dc:source>
-		<meta property="schema:wordCount">45228</meta>
+		<meta property="schema:wordCount">45220</meta>
 		<meta property="schema:educationalLevel">58.42</meta>
 		<link href="https://en.wikipedia.org/wiki/Aspects_of_the_Novel" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
